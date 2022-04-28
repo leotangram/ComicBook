@@ -6,7 +6,11 @@
 
 ## Run Local project
 
-To run local you need the next comands
+- You need add your API_KEY from [ComiVine](https://comicvine.gamespot.com/api/)
+
+- Change `.env.template` file to `.env` and add your API_KEY
+
+- To run local you need the next comands
 
 ```
 yarn or npm i
